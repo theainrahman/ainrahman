@@ -76,7 +76,7 @@
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  background-image: url("homebackground.png");
+  background-image: url("homebackground1.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -174,7 +174,7 @@ footer a {
 }
 
 .family-body {
-  background-image: url("familybackground.png");
+  background-image: url("familybackground1.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
